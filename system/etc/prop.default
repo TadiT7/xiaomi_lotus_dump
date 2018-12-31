@@ -1,0 +1,18 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Dec 17 23:37:17 CST 2018
+ro.bootimage.build.date.utc=1545061037
+ro.bootimage.build.fingerprint=xiaomi/lotus/lotus:8.1.0/O11019/V10.1.3.0.OFICNFI:user/release-keys
+persist.sys.usb.config=none
+
